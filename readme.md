@@ -85,6 +85,7 @@ export https_proxy=http://127.0.0.1:7897
 ```bash
 curl https://www.google.com
 curl https://huggingface.co
+bash connection_test.sh
 # 可以添加其他想测试的网址
 ```
 
